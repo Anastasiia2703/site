@@ -1,0 +1,53 @@
+body {
+background: #d8bfd8;
+max-width: 960px;
+margin: 0 auto;
+}
+div {
+border: 1px solid black;
+padding: 5px 15px;
+}
+h4 {
+text-align: center;
+}
+.header {
+border-radius: 10px 10px 0 0;
+margin-top: 20px;
+background: #fadadd;
+min-height: 200px;
+line-height: 200px;
+text-align: center;
+margin-bottom: 10px;
+-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.86);
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.86);
+}
+.sidebar {
+background: #ddadaf;
+float: left;
+margin-right: 10px;
+max-width: 200px;
+min-width: 150px;
+}
+.sidebar1 {
+background: #ddadaf;
+float: right;
+margin-left: 10px;
+max-width: 200px;
+}
+.container {
+text-align: justify;
+backgroung: #d8bfd8;
+margin-bottom: 10px;
+-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.86);
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.86);
+}
+.footer {
+font-weight: bold;
+color: #fff0f5;
+background:  #fadadd;
+min-height: 30px;
+line-height: 30px;
+border-radius: 0 0 10px 10px;
+-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.86);
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.86);
+}

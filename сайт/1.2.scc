@@ -1,0 +1,5 @@
+body {
+background: url (#d8bfd8);
+max-width: 960px;
+margin: 0 auto;
+}
